@@ -28,3 +28,15 @@ Checks include:
 ## Goal of This Project
 
 Create a growing collection of command line diagnostic tools that can quickly evaluate system health and help identify issues.
+
+## Project Structure
+
+command-line-diagnostics
+│
+├── windows
+│   └── KyleDiagnostic.ps1    # Windows system diagnostic script
+│
+├── linux
+│   └── README.md             # Linux diagnostic tools (future)
+│
+└── README.md
